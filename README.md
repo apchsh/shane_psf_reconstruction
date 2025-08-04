@@ -6,5 +6,5 @@ Here we present a small dataset of wavefront sensory data (ShaneAO; 3m-Shane tel
 
 At the moment the dataset consists of 5,178 matched wavefront sensor and image pairs, but will be expanded in future after more data is processed. 
 
-**Currently off sick during SPIE, so to get access to the data please contact me at: 'a.chaushev@uci.edu'. Thank you!** 
+**Currently off sick during SPIE, so to get access to the data please contact me at: 'a.chaushev@uci.edu'. I will be uploading it once I'm back to work. Thank you!** 
 
